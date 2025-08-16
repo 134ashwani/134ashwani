@@ -1,9 +1,9 @@
 <!-- Banner -->
-![Banner](https://github.com/134ashwani/134ashwani/blob/main/A_professional_digital_graphic_banner_introduces_A.png)
+![Banner](https://raw.githubusercontent.com/134ashwani/134ashwani/main/Banner.png)
 
 <!-- Typing Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=28&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Ashwani+Kumar+Chaurasiya;Full+Stack+MERN+Developer;Problem+Solver+%7C+Tech+Enthusiast;Open+Source+Contributor" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=28&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Ashwani+Kumar+Chaurasiya;MERN+Stack+Developer;Problem+Solver+%7C+Tech+Enthusiast;Open+Source+Contributor" alt="Typing Animation" />
 </h1>
 
 <!-- Subheading -->
