@@ -32,11 +32,22 @@
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/ashwani-kumar-chaurasiya-91b6a422a"><img src="https://skillicons.dev/icons?i=linkedin" width="45" height="45" /></a>
-  <a href="https://leetcode.com/ashwanichaurasiya"><img src="https://skillicons.dev/icons?i=leetcode" width="45" height="45" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/ashwanini3e"><img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="45" height="45" /></a>
-  <a href="https://hackerrank.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="45" height="45" /></a>
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/ashwani-kumar-chaurasiya-91b6a422a">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" height="45" />
+  </a>
 </p>
+
+<p align="center">
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/new-post.png" width="20" style="vertical-align:middle; margin-right:8px;"/>
+  <span style="color:white; font-size:14px; vertical-align:middle;">ashwani763400.com</span>
+</p>
+
+<p align="center">
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/phone.png" width="20" style="vertical-align:middle; margin-right:8px;"/>
+  <span style="color:white; font-size:14px; vertical-align:middle;">+91 76340 09864</span>
+</p>
+
 
 ---
 
@@ -69,7 +80,7 @@
 
 ### 📊 DSA Platforms  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=leetcode" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png?20191202080835" width="45" height="45" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="45" height="45" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="45" height="45" />
 </p>
