@@ -1,34 +1,102 @@
-![logo](https://github.com/134ashwani/134ashwani/blob/main/Blue%20Modern%20Corporate%20Staff%20Profile%20LinkedIn%20Banner.png)
-<h1 align="center">Hi 👋, I'm Ashwani Kumar Chaurasiya</h1>
-<h3 align="center">A passionate Mern Stack developer And Machine Learning Enthuasiast from India</h3>
-<img align="right" alt="coding" width="400px" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<!-- Banner -->
+![Banner](https://github.com/134ashwani/134ashwani/blob/main/A_professional_digital_graphic_banner_introduces_A.png)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=134ashwani&label=Profile%20views&color=0e75b6&style=flat" alt="134ashwani" /> </p>
+<!-- Typing Animation -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=28&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Ashwani+Kumar+Chaurasiya;Full+Stack+MERN+Developer;Problem+Solver+%7C+Tech+Enthusiast;Open+Source+Contributor" alt="Typing Animation" />
+</h1>
 
-- 🔭 I’m currently working on **Code Editor**
+<!-- Subheading -->
+<h3 align="center">🚀 Building scalable web applications & crafting impactful solutions with MERN</h3>
 
-- 🌱 I’m currently learning **Mern Stack Devlopement , Machine Learning**
-
-- 👯 I’m looking to collaborate on **Open Source Projects and Mern Stack Development Role**
-
-- 💬 Ask me about **react, Html, Css etc**
-
-- 📫 How to reach me **ashwani763400@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1yXH-7ooG91c-UpUet5CbUab6qf_jD_xl/view?usp=sharing](https://drive.google.com/file/d/1yXH-7ooG91c-UpUet5CbUab6qf_jD_xl/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ashwani-kumar-chaurasiya-91b6a422a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashwani-kumar-chaurasiya-91b6a422a" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ashwanichaurasiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ashwanichaurasiya" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/<ashwanini3e>" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="<ashwanini3e>" height="30" width="40" /></a>
+<!-- Modern GIF -->
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400px" alt="Web Dev Gif"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=134ashwani&label=Profile%20views&color=0e75b6&style=flat" alt="134ashwani" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=134ashwani&show_icons=true&locale=en&layout=compact" alt="134ashwani" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=134ashwani&show_icons=true&locale=en" alt="134ashwani" /></p>
+## 🚀 About Me
+- 🔭 Currently building **scalable web applications** with the **MERN stack**  
+- 🌱 Exploring **AI & Machine Learning integration** into modern apps  
+- 👯 Open to collaborating on **Open Source | Hackathons | Full-stack products**  
+- 💬 Ask me about **React, Node.js, Express, MongoDB, JavaScript, and modern web tools**  
+- ⚡ Fun fact: I love solving **DSA problems** and building **real-world projects**  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=134ashwani&" alt="134ashwani" /></p>
+---
+
+## 🌐 Connect with Me
+<p align="center">
+  <a href="https://linkedin.com/in/ashwani-kumar-chaurasiya-91b6a422a"><img src="https://skillicons.dev/icons?i=linkedin" width="45" height="45" /></a>
+  <a href="https://leetcode.com/ashwanichaurasiya"><img src="https://skillicons.dev/icons?i=leetcode" width="45" height="45" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/ashwanini3e"><img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="45" height="45" /></a>
+  <a href="https://hackerrank.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="45" height="45" /></a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+### 🖥️ Languages  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript" />
+</p>
+
+### 🎨 Frontend  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nextjs" />
+</p>
+
+### ⚙️ Backend  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,jwt,socketio,postman,npm,yarn" />
+</p>
+
+### 🗄️ Databases  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+</p>
+
+### ☁️ DevOps & Hosting  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,netlify,firebase" />
+</p>
+
+### 📊 DSA Platforms  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=leetcode" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="45" height="45" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="45" height="45" />
+</p>
+
+### 🤖 Machine Learning  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,pytorch,tensorflow" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=134ashwani&show_icons=true&theme=default&hide_border=false" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=134ashwani&theme=default&hide_border=false" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=134ashwani&show_icons=true&locale=en&layout=compact&theme=default" alt="Top Languages" />
+</p>
+
+---
+
+## 🏆 Badges & Highlights
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hackathon-Participant-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MERN%20Stack-Developer-green?style=for-the-badge" />
+</p>
