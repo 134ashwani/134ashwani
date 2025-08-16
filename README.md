@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Banner](https://raw.githubusercontent.com/134ashwani/134ashwani/main/Banner.png)
+![Banner](https://raw.githubusercontent.com/134ashwani/134ashwani/main/Heading.png)
 
 <!-- Typing Animation -->
 <h1 align="center">
