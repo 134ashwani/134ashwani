@@ -43,12 +43,6 @@
   <span style="color:white; font-size:14px; vertical-align:middle;">ashwani763400@gmail..com</span>
 </p>
 
-<p align="center">
-  <img src="https://img.icons8.com/ios-filled/50/ffffff/phone.png" width="20" style="vertical-align:middle; margin-right:8px;"/>
-  <span style="color:white; font-size:14px; vertical-align:middle;">+91 76340 09864</span>
-</p>
-
-
 ---
 
 ## 🛠️ Tech Stack
