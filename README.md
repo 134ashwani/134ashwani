@@ -91,10 +91,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=134ashwani&show_icons=true&theme=default&hide_border=false" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=134ashwani&theme=default&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=134ashwani&theme=default&hide_border=false" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=134ashwani&show_icons=true&locale=en&layout=compact&theme=default" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=134ashwani&layout=compact&theme=default&hide_border=false&langs_count=8" />
 </p>
 
 ---
